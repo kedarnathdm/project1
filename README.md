@@ -1,2 +1,2 @@
 # project1
-just a basic project
+just a basic login page using css and html
